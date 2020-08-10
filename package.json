@@ -1,0 +1,24 @@
+{
+  "name": "let-chat",
+  "version": "1.0.0",
+  "description": "仿微信的web端聊天工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sybb0807/let-chat.git"
+  },
+  "keywords": [
+    "typescript",
+    "微信",
+    "wechat"
+  ],
+  "author": "sybb0807",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sybb0807/let-chat/issues"
+  },
+  "homepage": "https://github.com/sybb0807/let-chat#readme"
+}
